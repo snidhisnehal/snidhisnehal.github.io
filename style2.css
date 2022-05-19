@@ -1,0 +1,54 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.Nav-1 {
+    top: 0px;
+    left: 0px;
+    width: 1600px;
+    height: 1080px;
+    /* UI Properties */
+    background: var(--oxfort-blue-354e57) 0% 0% no-repeat padding-box;
+    background: #354E57 0% 0% no-repeat padding-box;
+    opacity: 1;
+
+}
+
+.Content-1{
+top: 448px;
+margin-left: 191px;
+width: 357px;
+height: 135px;
+/* UI Properties */
+color: var(--athens-gray-eef2f4);
+text-align: left;
+letter-spacing: 6.75px;
+color: #EEF2F4;
+opacity: 1;
+font-size: 135px ;
+}
+
+.Content-1-2{
+    top: 580px;
+    left: 194px;
+    width: 459px;
+    height: 83px;
+    /* font: var(--unnamed-font-style-normal) normal 300 68px/83px var(--unnamed-font-family-proxima-nova); */
+    /* color: var(--athens-gray-eef2f4); */
+    text-align: left;
+    font: normal normal 300 68px/83px Proxima Nova;
+    letter-spacing: 1.7px;
+    color: #EEF2F4;
+    opacity: 1;
+     
+
+}
+.img-1{
+top: 289px;
+margin-left: 1072px;
+width: 528px;
+height: 791px;
+background: transparent url('Images/annie-spratt-hX_hf2lPpUU-unsplash.png') 0% 0% no-repeat padding-box;
+opacity: 1;
+}
